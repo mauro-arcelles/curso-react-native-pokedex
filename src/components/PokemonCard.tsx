@@ -8,7 +8,7 @@ import { FadeInImage } from './FadeInImage';
 import { useState, useEffect, useRef } from 'react';
 import { useNavigation } from '@react-navigation/native';
 import { StackNavigationProp } from '@react-navigation/stack';
-import { RootStackParams } from '../navigator/Navigator';
+import { RootStackParams } from '../navigator/Tab1';
 
 
 const windowWidth = Dimensions.get('window').width;
